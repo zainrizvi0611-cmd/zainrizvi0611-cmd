@@ -1,8 +1,44 @@
-# Hi there, I am Zain (`zainrizvi0611-cmd`) 👋
+<div align="center">
 
-Open-source TypeScript, React & Electronics (`tscircuit`) contributor.
+# ⚡ Zain (`@zainrizvi0611-cmd`)
+### *Security Researcher • Autonomous Systems • Web3 Auditor • Full-Stack Engineer*
 
-## 💳 Payout & Sponsorship Wallets
+[![Instagram](https://img.shields.io/badge/Instagram-@__x_candy._.boii__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__x_candy._.boii__)
+[![GitHub](https://img.shields.io/badge/GitHub-zainrizvi0611--cmd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zainrizvi0611-cmd)
+[![Sponsors](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/zainrizvi0611-cmd)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zainrizvi0611-cmd&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
+
+---
+
+### 🚀 About Me
+- 🛡️ **Security & Protocol Research:** Active bug hunter & security auditor across Web3 protocols (Sherlock Audits, Smart Contracts) and high-impact enterprise open-source codebases (Expensify, OpenTelemetry, Go-Hybrid).
+- ⚡ **Autonomous Systems & Offensive AI:** Engineering multi-agent autonomous engines, low-level execution pipelines, and adversarial evaluation frameworks.
+- 💻 **Tech Stack:** TypeScript, React, Python, Solidity, Go, C++, Linux/Kernel internals, and Distributed Architectures.
+- 📸 **Connect on Instagram:** [@__x_candy._.boii__](https://instagram.com/__x_candy._.boii__)
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 💳 Payout & Sponsorship Wallets
 
 - **GitHub Sponsors**: [github.com/sponsors/zainrizvi0611-cmd](https://github.com/sponsors/zainrizvi0611-cmd)
 - **Crypto Wallet (EVM — Ethereum / Celo / Polygon / Base / Arbitrum / Optimism / BSC — USDT / USDC / ETH / CELO)**:
@@ -10,11 +46,19 @@ Open-source TypeScript, React & Electronics (`tscircuit`) contributor.
   0x0970e4ad9Ff0a9A183e9c22de4664CC4A17804e6
   ```
 
-## ⭐ Monthly Sponsorship & Bounty Tiers
+---
+
+### ⭐ Monthly Sponsorship & Bounty Tiers
 
 | Tier | Monthly / One-Time | Description |
 | :--- | :--- | :--- |
 | **Supporter** | **$10 / $30 / $45** | Issue fixes & PR contributions |
-| **Bronze Contributor** | **$75 / $120** | Active weekly contributor (1–1.5⭐ median) |
-| **Silver Contributor** | **$250 / $400** | High-impact weekly contributor (2–2.5⭐ median) |
-| **Gold Contributor** | **$550 / $700+** | Full-time core contributor (3⭐ median/min) |
+| **Bronze Contributor** | **$75 / $120** | Active weekly contributor |
+| **Silver Contributor** | **$250 / $400** | High-impact security & code contributions |
+| **Gold Contributor** | **$550 / $700+** | Core contributor & full-time protocol security |
+
+---
+
+<div align="center">
+  <b>Built for maximum performance • Unbounded Execution ⚡</b>
+</div>
