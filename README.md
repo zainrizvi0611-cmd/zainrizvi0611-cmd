@@ -23,6 +23,19 @@
 
 ---
 
+### 🌟 Featured High-Impact Repositories
+
+| Repository | Focus & Domain | Tech Stack |
+| :--- | :--- | :--- |
+| [**`omega-cloud-runtime`**](https://github.com/zainrizvi0611-cmd/omega-cloud-runtime) | Cloud Execution Runtime Scripts & ARMv8 Crypto Acceleration Kernels | `Python`, `ARM64 ASM`, `Cloud Runners` |
+| [**`btc-puzzle-71-gpu`**](https://github.com/zainrizvi0611-cmd/btc-puzzle-71-gpu) | High-Performance 1-Click GPU Cryptography & Key-Search Engine | `CUDA`, `C++`, `Python`, `Colab` |
+| [**`ai-bot-web-app`**](https://github.com/zainrizvi0611-cmd/ai-bot-web-app) | Full-featured AI Bot Platform (Chat, Image Gen, Text Forging & OCR) | `TypeScript`, `React`, `AI APIs` |
+| [**`agent-conformance-quarantine`**](https://github.com/zainrizvi0611-cmd/agent-conformance-quarantine) | 24-Vector Cross-Core Ring-Buffer & WHATWG EventSource Conformance Runner | `Systems`, `Concurrency`, `Testing` |
+| [**`Go-Hybrid`**](https://github.com/zainrizvi0611-cmd/Go-Hybrid) | Go superset compiler with compile-time ownership & sendability enforcement | `Go`, `Compiler Engineering` |
+| [**`agentops`**](https://github.com/zainrizvi0611-cmd/agentops) | AI Agent Monitoring, LLM cost tracking, and Agentic Benchmarking SDK | `Python`, `OpenTelemetry`, `Tracing` |
+
+---
+
 ### 🛠️ Tech Stack & Tooling
 
 <p align="left">
