@@ -1,3 +1,5 @@
+> ### ⚡ **[AVAILABLE FOR HIRE: Rapid Automation, Web Scraping  Bug Fixing (1-2 Hr Turnaround) → Click Here to Order a Task](https://github.com/zainrizvi0611-cmd/freelance-automation-suite)**
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/zainrizvi0611-cmd/zainrizvi0611-cmd/main/avatar.png" width="165" height="165" style="border-radius: 50%; object-fit: cover; border: 3px solid #E4405F; box-shadow: 0 4px 15px rgba(228, 64, 95, 0.4);" alt="Profile Avatar" />
